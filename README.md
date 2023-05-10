@@ -10,5 +10,5 @@ This script is from the ahk forum: https://www.autohotkey.com/boards/viewtopic.p
 I've also remapped my CapsLock to Ctrl by using this registry key trick:
 https://gist.github.com/joshschmelzle/5e88dabc71014d7427ff01bca3fed33d
 
-Useful for vim users so you can remap CapsLock to Ctrl and Esc at the same time.
+Useful for vim users who want to remap CapsLock to Ctrl and Esc at the same time.
 
